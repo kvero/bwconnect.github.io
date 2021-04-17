@@ -1,0 +1,70 @@
+h1 {
+    position: absolute;
+    margin-left: 120px;
+    margin-right: 50px;
+    font-size: 50px;
+    color:rgb(50, 50, 109);
+    background-color:rgb(185, 187, 189);
+}
+
+div {
+    background-color: rgb(47, 73, 94);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#bruce:hover {
+    width: 490px;
+    height: 420px;
+    margin: 10;
+}
+
+#TBotV:hover {
+    width: 220px;
+    height: 320px;
+    margin: 10px;
+}
+
+#TBotV {
+    width: 150px;
+    height: 200px;
+}
+
+#Ninety {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:navy;
+}
+#bruce {
+    width: 450px;
+    height: 350px;
+    margin-top: 150px;
+    margin-left: 50px;
+}
+
+#tomhanks {
+    width: 150px;
+    height: 150px;
+    margin: 50px;
+}
+
+#tomhanks:hover {
+    width: 220px;
+    height: 220px;
+    margin: 10px;
+}
+
+#melgrif {
+    width: 100px;
+    height: 150px;
+    margin: 50px;
+}
+
+#melgrif:hover {
+    width: 220px;
+    height: 300px;
+    margin: 10px;
+}
